@@ -1,5 +1,5 @@
 tw.data.zones = {
-	"Ahlsdorf Ahlsdorf": {
+	"Ahlsdorf": {
 		"natrium": 8.3,
 		"kalium": 1.1,
 		"calcium": 25.5,
@@ -10,7 +10,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Ahlsdorf Ziegelrode": {
@@ -24,10 +24,10 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
-	"Alsleben Alsleben": {
+	"Alsleben": {
 		"natrium": 8.3,
 		"kalium": 1.1,
 		"calcium": 25.5,
@@ -38,7 +38,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Alsleben Gnölbzig": {
@@ -52,7 +52,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Arnstein Alterode": {
@@ -66,7 +66,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Arnstein Arnstedt": {
@@ -80,7 +80,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Arnstein Bräunrode": {
@@ -94,7 +94,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Arnstein Friedrichrode": {
@@ -108,7 +108,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Arnstein Greifenhagen": {
@@ -122,7 +122,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Arnstein Harkerode": {
@@ -136,7 +136,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Arnstein Oberwiederstedt": {
@@ -150,7 +150,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Arnstein Pfersdorf": {
@@ -164,7 +164,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Arnstein Quenstedt": {
@@ -178,7 +178,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Arnstein Roda": {
@@ -192,7 +192,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Arnstein Sandersleben": {
@@ -206,7 +206,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Arnstein Stangerode": {
@@ -220,7 +220,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Arnstein Sylda": {
@@ -234,7 +234,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Arnstein Ulzigerode": {
@@ -248,7 +248,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Arnstein Unterwiederstedt": {
@@ -262,7 +262,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Arnstein Welbsleben": {
@@ -276,7 +276,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Arnstein Wiederstedt": {
@@ -290,7 +290,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Arnstein Willerode": {
@@ -304,7 +304,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Aschersleben Drohndorf": {
@@ -318,7 +318,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Aschersleben Freckleben": {
@@ -332,7 +332,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Aschersleben Groß Schierstedt": {
@@ -346,7 +346,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Aschersleben Klein Schierstedt": {
@@ -360,7 +360,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Aschersleben Mehringen": {
@@ -374,7 +374,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Aschersleben Neu Königsaue": {
@@ -388,7 +388,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Aschersleben Schackenthal": {
@@ -402,7 +402,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Aschersleben Schackstedt": {
@@ -416,7 +416,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Aschersleben Westdorf": {
@@ -430,7 +430,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Aschersleben Wilsleben": {
@@ -444,7 +444,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Aschersleben Winningen": {
@@ -458,10 +458,10 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
-	"Bad Lauchstädt Bad Lauchstädt": {
+	"Bad Lauchstädt": {
 		"natrium": 8.3,
 		"kalium": 1.1,
 		"calcium": 25.5,
@@ -472,7 +472,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Bad Lauchstädt Bischdorf": {
@@ -486,7 +486,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Bad Lauchstädt Burgstadten": {
@@ -500,7 +500,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Bad Lauchstädt Delitz am Berge": {
@@ -514,7 +514,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Bad Lauchstädt Großgräfendorf": {
@@ -528,7 +528,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Bad Lauchstädt Klein Gräfendorf": {
@@ -542,7 +542,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Bad Lauchstädt Kleinlauchstädt": {
@@ -556,7 +556,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Bad Lauchstädt Krakau": {
@@ -570,7 +570,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Bad Lauchstädt Milzau": {
@@ -584,7 +584,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Bad Lauchstädt Netzschkau": {
@@ -598,7 +598,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Bad Lauchstädt Oberkriegstedt": {
@@ -612,7 +612,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Bad Lauchstädt Schadendorf": {
@@ -626,7 +626,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Bad Lauchstädt Schafstädt": {
@@ -640,7 +640,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Bad Lauchstädt Schotterey": {
@@ -654,7 +654,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Bad Lauchstädt Unterkriegstedt": {
@@ -668,10 +668,10 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
-	"Barnstädt Barnstädt": {
+	"Barnstädt": {
 		"natrium": 8.3,
 		"kalium": 1.1,
 		"calcium": 25.5,
@@ -682,7 +682,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Barnstädt Göhritz": {
@@ -696,10 +696,10 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
-	"Benndorf Benndorf": {
+	"Benndorf": {
 		"natrium": 8.3,
 		"kalium": 1.1,
 		"calcium": 25.5,
@@ -710,7 +710,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Bernburg Biendorf": {
@@ -724,7 +724,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Bernburg Crüchern": {
@@ -738,7 +738,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Bernburg Wohlsdorf": {
@@ -752,7 +752,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Bitterfeld-Wolfen Bitterfeld": {
@@ -766,7 +766,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Bitterfeld-Wolfen Holzweißig": {
@@ -780,7 +780,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Bitterfeld-Wolfen Rödgen": {
@@ -794,7 +794,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Bitterfeld-Wolfen Zschepkau": {
@@ -808,10 +808,10 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
-	"Bornstedt Bornstedt": {
+	"Bornstedt": {
 		"natrium": 8.3,
 		"kalium": 1.1,
 		"calcium": 25.5,
@@ -822,7 +822,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Braunsbedra Frankleben": {
@@ -836,7 +836,7 @@ tw.data.zones = {
 		"hardnessMMO": 1.5,
 		"conductability": 385,
 		"phValue": 8.14,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Braunsbedra Reipisch": {
@@ -850,10 +850,10 @@ tw.data.zones = {
 		"hardnessMMO": 1.5,
 		"conductability": 385,
 		"phValue": 8.14,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
-	"Droyßig Droyßig": {
+	"Droyßig": {
 		"natrium": 19.5,
 		"kalium": 3.95,
 		"calcium": 76.5,
@@ -864,7 +864,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Droyßig Hassel": {
@@ -878,7 +878,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Droyßig Romsdorf": {
@@ -892,7 +892,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Droyßig Stolzenhain": {
@@ -906,7 +906,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Droyßig Weißenborn": {
@@ -920,7 +920,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Alttröglitz": {
@@ -934,7 +934,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Beersdorf": {
@@ -948,7 +948,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Bornitz": {
@@ -962,7 +962,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Burtschütz": {
@@ -976,7 +976,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Döbitzschen": {
@@ -990,7 +990,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Draschwitz": {
@@ -1004,7 +1004,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Etzoldshain": {
@@ -1018,7 +1018,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Gleina": {
@@ -1032,7 +1032,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Göbitz": {
@@ -1046,7 +1046,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Kadischen": {
@@ -1060,7 +1060,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Könderitz": {
@@ -1074,7 +1074,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Krimmitzschen": {
@@ -1088,7 +1088,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Krimmlitz": {
@@ -1102,7 +1102,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Langendorf": {
@@ -1116,7 +1116,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Lützkewitz": {
@@ -1130,7 +1130,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Maßnitz": {
@@ -1144,7 +1144,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Minkwitz": {
@@ -1158,7 +1158,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Nißma": {
@@ -1172,7 +1172,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Oelsen": {
@@ -1186,7 +1186,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Ostrau": {
@@ -1200,7 +1200,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Predel": {
@@ -1214,7 +1214,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Prehlitz": {
@@ -1228,7 +1228,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Prehlitz-Penkwitz": {
@@ -1242,7 +1242,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Profen": {
@@ -1256,7 +1256,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Rehmsdorf": {
@@ -1270,7 +1270,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Reuden": {
@@ -1284,7 +1284,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Rumsdorf": {
@@ -1298,7 +1298,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Spora": {
@@ -1312,7 +1312,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Sprossen": {
@@ -1326,7 +1326,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Staschwitz": {
@@ -1340,7 +1340,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Stocksdorf": {
@@ -1354,7 +1354,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Techwitz": {
@@ -1368,7 +1368,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Torna": {
@@ -1382,7 +1382,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Traupitz": {
@@ -1396,7 +1396,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Tröglitz": {
@@ -1410,7 +1410,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Elsteraue Wadewitz": {
@@ -1424,7 +1424,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Falkenstein/Harz Burggrund": {
@@ -1438,7 +1438,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Falkenstein/Harz Degenershausen": {
@@ -1452,7 +1452,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Falkenstein/Harz Endorf": {
@@ -1466,7 +1466,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Falkenstein/Harz Ermsleben": {
@@ -1480,7 +1480,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Falkenstein/Harz Meisdorf": {
@@ -1494,7 +1494,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Falkenstein/Harz Neuplatendorf": {
@@ -1508,7 +1508,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Falkenstein/Harz Pansfelde": {
@@ -1522,7 +1522,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Falkenstein/Harz Reinstedt": {
@@ -1536,7 +1536,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Falkenstein/Harz Sinsleben": {
@@ -1550,7 +1550,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Falkenstein/Harz Wieserode": {
@@ -1564,7 +1564,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Farnstädt Bergfarnstädt": {
@@ -1578,10 +1578,10 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
-	"Farnstädt Farnstädt": {
+	"Farnstädt": {
 		"natrium": 8.3,
 		"kalium": 1.1,
 		"calcium": 25.5,
@@ -1592,7 +1592,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Farnstädt Unterfarnstädt": {
@@ -1606,7 +1606,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gerbstedt Adendorf": {
@@ -1620,7 +1620,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gerbstedt Augsdorf": {
@@ -1634,7 +1634,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gerbstedt Bösenburg": {
@@ -1648,7 +1648,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gerbstedt Elben": {
@@ -1662,7 +1662,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gerbstedt Freist": {
@@ -1676,7 +1676,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gerbstedt Friedeburg": {
@@ -1690,7 +1690,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gerbstedt Friedeburgerhütte": {
@@ -1704,10 +1704,10 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
-	"Gerbstedt Gerbstedt": {
+	"Gerbstedt": {
 		"natrium": 8.3,
 		"kalium": 1.1,
 		"calcium": 25.5,
@@ -1718,7 +1718,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gerbstedt Heiligenthal": {
@@ -1732,7 +1732,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gerbstedt Helmsdorf": {
@@ -1746,7 +1746,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gerbstedt Hübitz": {
@@ -1760,7 +1760,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gerbstedt Ihlewitz": {
@@ -1774,7 +1774,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gerbstedt Lochwitz": {
@@ -1788,7 +1788,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gerbstedt Oeste": {
@@ -1802,7 +1802,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gerbstedt Pfeiffhausen": {
@@ -1816,7 +1816,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gerbstedt Reidewitz": {
@@ -1830,7 +1830,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gerbstedt Rottelsdorf": {
@@ -1844,7 +1844,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gerbstedt Siersleben": {
@@ -1858,7 +1858,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gerbstedt Straußhof": {
@@ -1872,7 +1872,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gerbstedt Thaldorf": {
@@ -1886,7 +1886,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gerbstedt Thondorf": {
@@ -1900,7 +1900,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gerbstedt Welfesholz": {
@@ -1914,7 +1914,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gerbstedt Zabenstedt": {
@@ -1928,7 +1928,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gerbstedt Zabitz": {
@@ -1942,10 +1942,10 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
-	"Giersleben Giersleben": {
+	"Giersleben": {
 		"natrium": 8.3,
 		"kalium": 1.1,
 		"calcium": 25.5,
@@ -1956,7 +1956,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Giersleben Strummendorf": {
@@ -1970,7 +1970,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gutenborn Bergisdorf": {
@@ -1984,7 +1984,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gutenborn Droßdorf": {
@@ -1998,7 +1998,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gutenborn Frauenhain": {
@@ -2012,7 +2012,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gutenborn Giebelroth": {
@@ -2026,7 +2026,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gutenborn Golben": {
@@ -2040,7 +2040,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gutenborn Großosida": {
@@ -2054,7 +2054,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gutenborn Heuckewalde": {
@@ -2068,7 +2068,7 @@ tw.data.zones = {
 		"hardnessMMO": 1.6,
 		"conductability": 425,
 		"phValue": 8.04,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gutenborn Kuhndorf": {
@@ -2082,7 +2082,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gutenborn Loitzschütz": {
@@ -2096,7 +2096,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gutenborn Lonzig": {
@@ -2110,7 +2110,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gutenborn Ossig": {
@@ -2124,7 +2124,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gutenborn Rippicha": {
@@ -2138,7 +2138,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gutenborn Röden": {
@@ -2152,7 +2152,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gutenborn Schellbach": {
@@ -2166,7 +2166,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Gutenborn Zetzschdorf": {
@@ -2180,7 +2180,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Hecklingen Cochstedt": {
@@ -2194,10 +2194,10 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
-	"Hedersleben Hedersleben": {
+	"Hedersleben": {
 		"natrium": 8.3,
 		"kalium": 1.1,
 		"calcium": 25.5,
@@ -2208,10 +2208,10 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
-	"Helbra Helbra": {
+	"Helbra": {
 		"natrium": 8.3,
 		"kalium": 1.1,
 		"calcium": 25.5,
@@ -2222,10 +2222,10 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
-	"Hergisdorf Hergisdorf": {
+	"Hergisdorf": {
 		"natrium": 8.3,
 		"kalium": 1.1,
 		"calcium": 25.5,
@@ -2236,7 +2236,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Hergisdorf Kreisfeld": {
@@ -2250,7 +2250,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Hettstedt Meisberg": {
@@ -2264,7 +2264,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Hettstedt Ritterode": {
@@ -2278,7 +2278,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Hettstedt Walbeck": {
@@ -2292,7 +2292,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Hohenmölsen Altgröben": {
@@ -2306,7 +2306,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Hohenmölsen Aupitz": {
@@ -2320,7 +2320,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Hohenmölsen Deumen": {
@@ -2334,7 +2334,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Hohenmölsen Gnäditz": {
@@ -2348,7 +2348,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Hohenmölsen Gosserau": {
@@ -2362,7 +2362,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Hohenmölsen Granschütz": {
@@ -2376,10 +2376,10 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
-	"Hohenmölsen Hohenmölsen": {
+	"Hohenmölsen": {
 		"natrium": 19.5,
 		"kalium": 3.95,
 		"calcium": 76.5,
@@ -2390,7 +2390,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Hohenmölsen Jaucha": {
@@ -2404,7 +2404,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Hohenmölsen Keutschen": {
@@ -2418,7 +2418,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Hohenmölsen Köpsen": {
@@ -2432,7 +2432,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Hohenmölsen Oberwerschen": {
@@ -2446,7 +2446,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Hohenmölsen Rössuln": {
@@ -2460,7 +2460,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Hohenmölsen Taucha": {
@@ -2474,7 +2474,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Hohenmölsen Unterwerschen": {
@@ -2488,7 +2488,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Hohenmölsen Wählitz": {
@@ -2502,7 +2502,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Hohenmölsen Webau": {
@@ -2516,7 +2516,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Hohenmölsen Werschen": {
@@ -2530,7 +2530,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Hohenmölsen Zembschen": {
@@ -2544,7 +2544,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Hohenmölsen Zetzsch": {
@@ -2558,10 +2558,10 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
-	"Klostermansfeld Klostermansfeld": {
+	"Klostermansfeld": {
 		"natrium": 8.3,
 		"kalium": 1.1,
 		"calcium": 25.5,
@@ -2572,7 +2572,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Könnern Alt Mödewitz": {
@@ -2586,7 +2586,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Könnern Bebitz": {
@@ -2600,7 +2600,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Könnern Beesedau": {
@@ -2614,7 +2614,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Könnern Beesenlaublingen": {
@@ -2628,7 +2628,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Könnern Belleben": {
@@ -2642,7 +2642,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Könnern Berwitz": {
@@ -2656,7 +2656,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Könnern Brucke": {
@@ -2670,7 +2670,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Könnern Edlau": {
@@ -2684,7 +2684,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Könnern Garsena": {
@@ -2698,7 +2698,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Könnern Gerlebogk": {
@@ -2712,7 +2712,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Könnern Golbitz": {
@@ -2726,7 +2726,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Könnern Haus Zeitz": {
@@ -2740,7 +2740,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Könnern Hohenedlau": {
@@ -2754,7 +2754,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Könnern Ilbersdorf": {
@@ -2768,7 +2768,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Könnern Kirchedlau": {
@@ -2782,10 +2782,10 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
-	"Könnern Könnern": {
+	"Könnern": {
 		"natrium": 8.3,
 		"kalium": 1.1,
 		"calcium": 25.5,
@@ -2796,7 +2796,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Könnern Kustrena": {
@@ -2810,7 +2810,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Könnern Lebendorf": {
@@ -2824,7 +2824,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Könnern Mitteledlau": {
@@ -2838,7 +2838,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Könnern Mukrena": {
@@ -2852,7 +2852,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Könnern Nelben": {
@@ -2866,7 +2866,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Könnern Pfitzdorf": {
@@ -2880,7 +2880,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Könnern Piesdorf": {
@@ -2894,7 +2894,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Könnern Poplitz": {
@@ -2908,7 +2908,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Könnern Sieglitz": {
@@ -2922,7 +2922,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Könnern Strenznaundorf": {
@@ -2936,7 +2936,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Könnern Trebitz": {
@@ -2950,7 +2950,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Könnern Trebnitz": {
@@ -2964,7 +2964,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Könnern Wiendorf": {
@@ -2978,7 +2978,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Könnern Zellewitz": {
@@ -2992,7 +2992,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Könnern Zickeritz": {
@@ -3006,7 +3006,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Könnern Zweihausen": {
@@ -3020,7 +3020,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Köthen Arensdorf": {
@@ -3034,7 +3034,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.04,
 		"conductability": 841,
 		"phValue": 7.44,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Köthen Baasdorf": {
@@ -3048,7 +3048,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.04,
 		"conductability": 841,
 		"phValue": 7.44,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Köthen Dohndorf": {
@@ -3062,7 +3062,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Köthen Elsdorf": {
@@ -3076,7 +3076,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Köthen Gahrendorf": {
@@ -3090,7 +3090,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.04,
 		"conductability": 841,
 		"phValue": 7.44,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Köthen Geuz": {
@@ -3104,7 +3104,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.04,
 		"conductability": 841,
 		"phValue": 7.44,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Köthen Großwülknitz": {
@@ -3118,7 +3118,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.04,
 		"conductability": 841,
 		"phValue": 7.44,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Köthen Hohsdorf": {
@@ -3132,7 +3132,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.04,
 		"conductability": 841,
 		"phValue": 7.44,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Köthen Kleinwülknitz": {
@@ -3146,7 +3146,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.04,
 		"conductability": 841,
 		"phValue": 7.44,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Köthen Klepzig": {
@@ -3160,10 +3160,10 @@ tw.data.zones = {
 		"hardnessMMO": 4.04,
 		"conductability": 841,
 		"phValue": 7.44,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
-	"Köthen Köthen": {
+	"Köthen": {
 		"natrium": 21.5,
 		"kalium": 2.2,
 		"calcium": 117,
@@ -3174,7 +3174,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.04,
 		"conductability": 841,
 		"phValue": 7.44,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Köthen Löbnitz an der Linde": {
@@ -3188,7 +3188,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Köthen Merzien": {
@@ -3202,7 +3202,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.04,
 		"conductability": 841,
 		"phValue": 7.44,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Köthen Porst": {
@@ -3216,7 +3216,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Köthen Zehringen": {
@@ -3230,7 +3230,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.04,
 		"conductability": 841,
 		"phValue": 7.44,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Kretzschau Döschwitz": {
@@ -3244,7 +3244,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Kretzschau Gladitz": {
@@ -3258,7 +3258,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Kretzschau Grana": {
@@ -3272,7 +3272,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Kretzschau Groitzschen": {
@@ -3286,7 +3286,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Kretzschau Hollsteitz": {
@@ -3300,7 +3300,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Kretzschau Kirchsteitz": {
@@ -3314,7 +3314,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Kretzschau Kleinosida": {
@@ -3328,10 +3328,10 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
-	"Kretzschau Kretzschau": {
+	"Kretzschau": {
 		"natrium": 19.5,
 		"kalium": 3.95,
 		"calcium": 76.5,
@@ -3342,7 +3342,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Kretzschau Mannsdorf": {
@@ -3356,7 +3356,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Kretzschau Näthern": {
@@ -3370,7 +3370,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Kretzschau Salsitz": {
@@ -3384,7 +3384,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Leuna Dölkau": {
@@ -3398,7 +3398,7 @@ tw.data.zones = {
 		"hardnessMMO": 1.5,
 		"conductability": 385,
 		"phValue": 8.14,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Leuna Göhren": {
@@ -3412,7 +3412,7 @@ tw.data.zones = {
 		"hardnessMMO": 1.5,
 		"conductability": 385,
 		"phValue": 8.14,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Leuna Günthersdorf": {
@@ -3426,7 +3426,7 @@ tw.data.zones = {
 		"hardnessMMO": 1.5,
 		"conductability": 385,
 		"phValue": 8.14,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Leuna Horburg": {
@@ -3440,7 +3440,7 @@ tw.data.zones = {
 		"hardnessMMO": 1.5,
 		"conductability": 385,
 		"phValue": 8.14,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Leuna Kötschlitz": {
@@ -3454,7 +3454,7 @@ tw.data.zones = {
 		"hardnessMMO": 1.5,
 		"conductability": 385,
 		"phValue": 8.14,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Leuna Maßlau": {
@@ -3468,7 +3468,7 @@ tw.data.zones = {
 		"hardnessMMO": 1.5,
 		"conductability": 385,
 		"phValue": 8.14,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Leuna Möritzsch": {
@@ -3482,7 +3482,7 @@ tw.data.zones = {
 		"hardnessMMO": 1.5,
 		"conductability": 385,
 		"phValue": 8.14,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Leuna Pissen": {
@@ -3496,7 +3496,7 @@ tw.data.zones = {
 		"hardnessMMO": 1.5,
 		"conductability": 385,
 		"phValue": 8.14,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Leuna Rodden": {
@@ -3510,7 +3510,7 @@ tw.data.zones = {
 		"hardnessMMO": 1.5,
 		"conductability": 385,
 		"phValue": 8.14,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Leuna Zöschen": {
@@ -3524,7 +3524,7 @@ tw.data.zones = {
 		"hardnessMMO": 1.5,
 		"conductability": 385,
 		"phValue": 8.14,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Leuna Zscherneddel": {
@@ -3538,7 +3538,7 @@ tw.data.zones = {
 		"hardnessMMO": 1.5,
 		"conductability": 385,
 		"phValue": 8.14,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Leuna Zschöchergen": {
@@ -3552,7 +3552,7 @@ tw.data.zones = {
 		"hardnessMMO": 1.5,
 		"conductability": 385,
 		"phValue": 8.14,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Leuna Zweimen": {
@@ -3566,7 +3566,7 @@ tw.data.zones = {
 		"hardnessMMO": 1.5,
 		"conductability": 385,
 		"phValue": 8.14,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lutherstadt Eisleben Bischofrode": {
@@ -3580,7 +3580,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lutherstadt Eisleben Burgsdorf": {
@@ -3594,7 +3594,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lutherstadt Eisleben Hedersleben": {
@@ -3608,7 +3608,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lutherstadt Eisleben Kleinosterhausen": {
@@ -3622,7 +3622,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lutherstadt Eisleben Oberrißdorf": {
@@ -3636,7 +3636,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lutherstadt Eisleben Osterhausen": {
@@ -3650,7 +3650,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lutherstadt Eisleben Polleben": {
@@ -3664,7 +3664,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lutherstadt Eisleben Rothenschirmbach": {
@@ -3678,7 +3678,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lutherstadt Eisleben Schmalzerode": {
@@ -3692,7 +3692,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lutherstadt Eisleben Sittichenbach": {
@@ -3706,7 +3706,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lutherstadt Eisleben Wolferode": {
@@ -3720,7 +3720,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lutherstadt Wittenberg Abtsdorf": {
@@ -3734,7 +3734,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.47,
 		"conductability": 545,
 		"phValue": 7.77,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lutherstadt Wittenberg Assau": {
@@ -3748,7 +3748,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.6,
 		"conductability": 768,
 		"phValue": 7.35,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lutherstadt Wittenberg Berkau": {
@@ -3762,7 +3762,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.6,
 		"conductability": 768,
 		"phValue": 7.35,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lutherstadt Wittenberg Boßdorf": {
@@ -3776,7 +3776,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.6,
 		"conductability": 768,
 		"phValue": 7.35,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lutherstadt Wittenberg Euper": {
@@ -3790,7 +3790,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.47,
 		"conductability": 545,
 		"phValue": 7.77,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lutherstadt Wittenberg Grabo": {
@@ -3804,7 +3804,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.6,
 		"conductability": 768,
 		"phValue": 7.35,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lutherstadt Wittenberg Jahmo": {
@@ -3818,7 +3818,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.47,
 		"conductability": 545,
 		"phValue": 7.77,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lutherstadt Wittenberg Karlsfeld": {
@@ -3832,7 +3832,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.47,
 		"conductability": 545,
 		"phValue": 7.77,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lutherstadt Wittenberg Kerzendorf": {
@@ -3846,7 +3846,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.6,
 		"conductability": 768,
 		"phValue": 7.35,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lutherstadt Wittenberg Köpnick": {
@@ -3860,7 +3860,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.47,
 		"conductability": 545,
 		"phValue": 7.77,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lutherstadt Wittenberg Kropstädt": {
@@ -3874,7 +3874,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.47,
 		"conductability": 545,
 		"phValue": 7.77,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lutherstadt Wittenberg Straach": {
@@ -3888,7 +3888,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.6,
 		"conductability": 768,
 		"phValue": 7.35,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lutherstadt Wittenberg Weddin": {
@@ -3902,7 +3902,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.6,
 		"conductability": 768,
 		"phValue": 7.35,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lutherstadt Wittenberg Wüstemark": {
@@ -3916,7 +3916,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.47,
 		"conductability": 545,
 		"phValue": 7.77,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lützen Dehlitz": {
@@ -3930,7 +3930,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.15,
 		"conductability": 1154,
 		"phValue": 7.33,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lützen Gerstewitz": {
@@ -3944,7 +3944,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lützen Göthewitz": {
@@ -3958,7 +3958,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lützen Großgöhren": {
@@ -3972,7 +3972,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.86,
 		"conductability": 927,
 		"phValue": 7.26,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lützen Kleingöhren": {
@@ -3986,7 +3986,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.86,
 		"conductability": 927,
 		"phValue": 7.26,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lützen Kreischau": {
@@ -4000,7 +4000,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lützen Lösau": {
@@ -4014,7 +4014,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.15,
 		"conductability": 1154,
 		"phValue": 7.33,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lützen Muschwitz": {
@@ -4028,7 +4028,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lützen Nellschütz": {
@@ -4042,7 +4042,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lützen Oeglitzsch": {
@@ -4056,7 +4056,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.15,
 		"conductability": 1154,
 		"phValue": 7.33,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lützen Pobles": {
@@ -4070,7 +4070,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lützen Pörsten": {
@@ -4084,7 +4084,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.86,
 		"conductability": 927,
 		"phValue": 7.26,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lützen Rippach": {
@@ -4098,7 +4098,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.86,
 		"conductability": 927,
 		"phValue": 7.26,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lützen Söhesten": {
@@ -4112,7 +4112,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lützen Tornau": {
@@ -4126,7 +4126,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lützen Wuschlaub": {
@@ -4140,7 +4140,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lützen Zorbau": {
@@ -4154,7 +4154,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Lützen Zörbitz": {
@@ -4168,7 +4168,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Mansfeld Abberode": {
@@ -4182,7 +4182,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Mansfeld Annarode": {
@@ -4196,7 +4196,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Mansfeld Biesenrode": {
@@ -4210,7 +4210,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Mansfeld Blumerode": {
@@ -4224,7 +4224,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Mansfeld Braunschwende": {
@@ -4238,7 +4238,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Mansfeld Friesdorf": {
@@ -4252,7 +4252,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Mansfeld Gorenzen": {
@@ -4266,7 +4266,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Mansfeld Gräfenstuhl": {
@@ -4280,7 +4280,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Mansfeld Großörner": {
@@ -4294,7 +4294,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Mansfeld Großörner": {
@@ -4308,7 +4308,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Mansfeld Hermerode": {
@@ -4322,7 +4322,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Mansfeld Horbeck": {
@@ -4336,7 +4336,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Mansfeld Leimbach": {
@@ -4350,7 +4350,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Mansfeld Leinemühle": {
@@ -4364,10 +4364,10 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
-	"Mansfeld Mansfeld": {
+	"Mansfeld": {
 		"natrium": 8.3,
 		"kalium": 1.1,
 		"calcium": 25.5,
@@ -4378,7 +4378,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Mansfeld Möllendorf": {
@@ -4392,7 +4392,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Mansfeld Molmerswende": {
@@ -4406,7 +4406,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Mansfeld Piskaborn": {
@@ -4420,7 +4420,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Mansfeld Rammelburg": {
@@ -4434,7 +4434,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Mansfeld Ritzgerode": {
@@ -4448,7 +4448,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Mansfeld Rödgen": {
@@ -4462,7 +4462,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Mansfeld Saurasen": {
@@ -4476,7 +4476,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Mansfeld Siebigerode": {
@@ -4490,7 +4490,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Mansfeld Steinbrücken": {
@@ -4504,7 +4504,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Mansfeld Tilkerode": {
@@ -4518,7 +4518,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Mansfeld Vatterode": {
@@ -4532,7 +4532,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Mansfeld Waldsiedlung": {
@@ -4546,7 +4546,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Mansfeld Wimmelrode": {
@@ -4560,10 +4560,10 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
-	"Meineweh Meineweh": {
+	"Meineweh": {
 		"natrium": 19.5,
 		"kalium": 3.95,
 		"calcium": 76.5,
@@ -4574,7 +4574,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Meineweh Oberkaka": {
@@ -4588,7 +4588,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Meineweh Pretzsch": {
@@ -4602,7 +4602,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Meineweh Priesen": {
@@ -4616,7 +4616,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Meineweh Quesnitz": {
@@ -4630,7 +4630,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Meineweh Schleinitz": {
@@ -4644,7 +4644,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Meineweh Thierbach": {
@@ -4658,7 +4658,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Meineweh Unterkaka": {
@@ -4672,7 +4672,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Meineweh Zellschen": {
@@ -4686,7 +4686,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Merseburg Annemariental": {
@@ -4700,7 +4700,7 @@ tw.data.zones = {
 		"hardnessMMO": 1.5,
 		"conductability": 385,
 		"phValue": 8.14,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Merseburg Atzendorf": {
@@ -4714,7 +4714,7 @@ tw.data.zones = {
 		"hardnessMMO": 1.5,
 		"conductability": 385,
 		"phValue": 8.14,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Merseburg Beuna": {
@@ -4728,7 +4728,7 @@ tw.data.zones = {
 		"hardnessMMO": 1.5,
 		"conductability": 385,
 		"phValue": 8.14,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Merseburg Blösien": {
@@ -4742,7 +4742,7 @@ tw.data.zones = {
 		"hardnessMMO": 1.5,
 		"conductability": 385,
 		"phValue": 8.14,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Merseburg Freiimfelde": {
@@ -4756,7 +4756,7 @@ tw.data.zones = {
 		"hardnessMMO": 1.5,
 		"conductability": 385,
 		"phValue": 8.14,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Merseburg Geusa": {
@@ -4770,7 +4770,7 @@ tw.data.zones = {
 		"hardnessMMO": 1.5,
 		"conductability": 385,
 		"phValue": 8.14,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Merseburg Kötzschen": {
@@ -4784,10 +4784,10 @@ tw.data.zones = {
 		"hardnessMMO": 1.5,
 		"conductability": 385,
 		"phValue": 8.14,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
-	"Merseburg Merseburg": {
+	"Merseburg": {
 		"natrium": 13.5,
 		"kalium": 2.1,
 		"calcium": 49.3,
@@ -4798,7 +4798,7 @@ tw.data.zones = {
 		"hardnessMMO": 1.5,
 		"conductability": 385,
 		"phValue": 8.14,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Merseburg Meuschau": {
@@ -4812,7 +4812,7 @@ tw.data.zones = {
 		"hardnessMMO": 1.5,
 		"conductability": 385,
 		"phValue": 8.14,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Merseburg Trebnitz": {
@@ -4826,7 +4826,7 @@ tw.data.zones = {
 		"hardnessMMO": 1.5,
 		"conductability": 385,
 		"phValue": 8.14,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Merseburg Zscherben": {
@@ -4840,7 +4840,7 @@ tw.data.zones = {
 		"hardnessMMO": 1.5,
 		"conductability": 385,
 		"phValue": 8.14,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Muldestausee Friedersdorf": {
@@ -4854,7 +4854,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Muldestausee Friedersdorf": {
@@ -4868,7 +4868,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Muldestausee Gossa": {
@@ -4882,7 +4882,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Muldestausee Krina": {
@@ -4896,7 +4896,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Muldestausee Mühlbeck": {
@@ -4910,7 +4910,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Muldestausee Mühlbeck": {
@@ -4924,7 +4924,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Muldestausee Muldenstein": {
@@ -4938,7 +4938,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Muldestausee Plodda": {
@@ -4952,7 +4952,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Muldestausee Pouch": {
@@ -4966,7 +4966,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Muldestausee Pouch": {
@@ -4980,7 +4980,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Muldestausee Schlaitz": {
@@ -4994,7 +4994,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Muldestausee Schmerz": {
@@ -5008,7 +5008,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Nemsdorf-Göhrendorf Göhrendorf": {
@@ -5022,7 +5022,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Nemsdorf-Göhrendorf Nemsdorf": {
@@ -5036,10 +5036,10 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
-	"Nemsdorf-Göhrendorf Nemsdorf-Göhrendorf": {
+	"Nemsdorf-Göhrendorf": {
 		"natrium": 8.3,
 		"kalium": 1.1,
 		"calcium": 25.5,
@@ -5050,7 +5050,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Nienburg Altenburg": {
@@ -5064,7 +5064,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Nienburg Borgesdorf": {
@@ -5078,7 +5078,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Nienburg Gramsdorf": {
@@ -5092,7 +5092,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Nienburg Grimschleben": {
@@ -5106,7 +5106,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Nienburg Jesar": {
@@ -5120,10 +5120,10 @@ tw.data.zones = {
 		"hardnessMMO": 2.23,
 		"conductability": 499,
 		"phValue": 7.92,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
-	"Nienburg Nienburg": {
+	"Nienburg": {
 		"natrium": 8.3,
 		"kalium": 1.1,
 		"calcium": 25.5,
@@ -5134,7 +5134,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Nienburg Pobzig": {
@@ -5148,7 +5148,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Nienburg Wedlitz": {
@@ -5162,7 +5162,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Nienburg Wispitz": {
@@ -5176,7 +5176,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Obhausen Altweidenbach": {
@@ -5190,7 +5190,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Obhausen Döcklitz": {
@@ -5204,7 +5204,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Obhausen Neuweidenbach": {
@@ -5218,10 +5218,10 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
-	"Obhausen Obhausen": {
+	"Obhausen": {
 		"natrium": 8.3,
 		"kalium": 1.1,
 		"calcium": 25.5,
@@ -5232,7 +5232,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Osterfeld Goldschau": {
@@ -5246,7 +5246,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Osterfeld Haardorf": {
@@ -5260,7 +5260,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Osterfeld Heidegrund": {
@@ -5274,7 +5274,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Osterfeld Kaynsberg": {
@@ -5288,7 +5288,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Osterfeld Kleinhelmsdorf": {
@@ -5302,10 +5302,10 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
-	"Osterfeld Osterfeld": {
+	"Osterfeld": {
 		"natrium": 19.5,
 		"kalium": 3.95,
 		"calcium": 76.5,
@@ -5316,7 +5316,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Osterfeld Roda": {
@@ -5330,7 +5330,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Osterfeld Waldau": {
@@ -5344,7 +5344,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Osterfeld Weickelsdorf": {
@@ -5358,7 +5358,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Osternienburger Land Bobbe": {
@@ -5372,7 +5372,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Osternienburger Land Chörau": {
@@ -5386,7 +5386,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.68,
 		"conductability": 769,
 		"phValue": 7.69,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Osternienburger Land Dornbock": {
@@ -5400,7 +5400,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Osternienburger Land Drosa": {
@@ -5414,7 +5414,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Osternienburger Land Elsnigk": {
@@ -5428,7 +5428,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Osternienburger Land Frenz": {
@@ -5442,7 +5442,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Osternienburger Land Großpaschleben": {
@@ -5456,7 +5456,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Osternienburger Land Kleinpaschleben": {
@@ -5470,7 +5470,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Osternienburger Land Klietzen": {
@@ -5484,7 +5484,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Osternienburger Land Libbesdorf": {
@@ -5498,7 +5498,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.15,
 		"conductability": 489,
 		"phValue": 8.09,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Osternienburger Land Maxdorf": {
@@ -5512,7 +5512,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Osternienburger Land Micheln": {
@@ -5526,7 +5526,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Osternienburger Land Mölz": {
@@ -5540,7 +5540,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Osternienburger Land Osternienburg": {
@@ -5554,7 +5554,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Osternienburger Land Pißdorf": {
@@ -5568,7 +5568,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Osternienburger Land Rosefeld": {
@@ -5582,7 +5582,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.15,
 		"conductability": 489,
 		"phValue": 8.09,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Osternienburger Land Sibbesdorf": {
@@ -5596,7 +5596,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Osternienburger Land Thurau": {
@@ -5610,7 +5610,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Osternienburger Land Trebbichau": {
@@ -5624,7 +5624,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Osternienburger Land Trinum": {
@@ -5638,7 +5638,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Osternienburger Land Wulfen": {
@@ -5652,7 +5652,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Osternienburger Land Würflau": {
@@ -5666,7 +5666,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Osternienburger Land Zabitz": {
@@ -5680,7 +5680,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Querfurt Gatterstädt": {
@@ -5694,7 +5694,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Querfurt Grockstädt": {
@@ -5708,7 +5708,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Querfurt Kleineichstädt": {
@@ -5722,7 +5722,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Querfurt Landgrafroda": {
@@ -5736,7 +5736,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Querfurt Leimbach": {
@@ -5750,7 +5750,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Querfurt Liederstädt": {
@@ -5764,7 +5764,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Querfurt Lodersleben": {
@@ -5778,7 +5778,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Querfurt Niederschmon": {
@@ -5792,7 +5792,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Querfurt Oberschmon": {
@@ -5806,7 +5806,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Querfurt Pretitz": {
@@ -5820,10 +5820,10 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
-	"Querfurt Querfurt": {
+	"Querfurt": {
 		"natrium": 8.3,
 		"kalium": 1.1,
 		"calcium": 25.5,
@@ -5834,7 +5834,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Querfurt Schmon": {
@@ -5848,7 +5848,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Querfurt Spielberg": {
@@ -5862,7 +5862,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Querfurt Vitzenburg": {
@@ -5876,7 +5876,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Querfurt Weißenschirmbach": {
@@ -5890,7 +5890,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Querfurt Ziegelroda": {
@@ -5904,7 +5904,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Querfurt Zingst": {
@@ -5918,7 +5918,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Raguhn-Jeßnitz Altjeßnitz": {
@@ -5932,7 +5932,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Raguhn-Jeßnitz Heidekrug": {
@@ -5946,7 +5946,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Raguhn-Jeßnitz Hoyersdorf": {
@@ -5960,7 +5960,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Raguhn-Jeßnitz Kleckewitz": {
@@ -5974,7 +5974,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Raguhn-Jeßnitz Klein Leipzig": {
@@ -5988,7 +5988,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Raguhn-Jeßnitz Lingenau": {
@@ -6002,7 +6002,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Raguhn-Jeßnitz Marke": {
@@ -6016,7 +6016,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Raguhn-Jeßnitz Möst": {
@@ -6030,7 +6030,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Raguhn-Jeßnitz Niesau": {
@@ -6044,7 +6044,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Raguhn-Jeßnitz Priorau": {
@@ -6058,7 +6058,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Raguhn-Jeßnitz Raguhn": {
@@ -6072,7 +6072,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Raguhn-Jeßnitz Retzau": {
@@ -6086,7 +6086,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Raguhn-Jeßnitz Schierau": {
@@ -6100,7 +6100,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Raguhn-Jeßnitz Thurland": {
@@ -6114,7 +6114,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Raguhn-Jeßnitz Tornau vor der Heide": {
@@ -6128,7 +6128,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Sandersdorf-Brehna Beyersdorf": {
@@ -6142,7 +6142,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Sandersdorf-Brehna Brehna": {
@@ -6156,7 +6156,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Sandersdorf-Brehna Brehna": {
@@ -6170,7 +6170,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Sandersdorf-Brehna Carlsfeld": {
@@ -6184,7 +6184,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Sandersdorf-Brehna Carlsfeld": {
@@ -6198,7 +6198,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Sandersdorf-Brehna Glebitzsch": {
@@ -6212,7 +6212,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Sandersdorf-Brehna Heideloh": {
@@ -6226,7 +6226,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Sandersdorf-Brehna Köckern": {
@@ -6240,7 +6240,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Sandersdorf-Brehna Petersroda": {
@@ -6254,7 +6254,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Sandersdorf-Brehna Ramsin": {
@@ -6268,7 +6268,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Sandersdorf-Brehna Renneritz": {
@@ -6282,7 +6282,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Sandersdorf-Brehna Roitzsch": {
@@ -6296,10 +6296,10 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
-	"Sandersdorf-Brehna Sandersdorf-Brehna": {
+	"Sandersdorf-Brehna": {
 		"natrium": 20.3,
 		"kalium": 4.6,
 		"calcium": 106.5,
@@ -6310,21 +6310,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
-		"description": ""
-	},
-	"Sandersdorf-Brehna Torna": {
-		"natrium": 20.3,
-		"kalium": 4.6,
-		"calcium": 106.5,
-		"magnesium": 14.5,
-		"hardness": 18.4,
-		// extra values
-		"hardnessRange": "hard",
-		"hardnessMMO": 3.28,
-		"conductability": 713,
-		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Sandersdorf-Brehna Torna": {
@@ -6338,7 +6324,21 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
+		"description": ""
+	},
+	"Sandersdorf-Brehna Torna": {
+		"natrium": 20.3,
+		"kalium": 4.6,
+		"calcium": 106.5,
+		"magnesium": 14.5,
+		"hardness": 18.4,
+		// extra values
+		"hardnessRange": "hard",
+		"hardnessMMO": 3.28,
+		"conductability": 713,
+		"phValue": 7.8,
+		"year": 2016,
 		"description": ""
 	},
 	"Sandersdorf-Brehna Zscherndorf": {
@@ -6352,7 +6352,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Sangerhausen Hayda": {
@@ -6366,7 +6366,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Sangerhausen Popperode": {
@@ -6380,7 +6380,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Sangerhausen Wippra": {
@@ -6394,7 +6394,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Schkopau Bündorf": {
@@ -6408,7 +6408,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Schkopau Burgliebenau": {
@@ -6422,7 +6422,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Schkopau Dörstewitz": {
@@ -6436,7 +6436,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Schkopau Ermlitz": {
@@ -6450,7 +6450,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Schkopau Knapendorf": {
@@ -6464,7 +6464,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Schkopau Kollenbey": {
@@ -6478,7 +6478,7 @@ tw.data.zones = {
 		"hardnessMMO": 1.5,
 		"conductability": 385,
 		"phValue": 8.14,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Schkopau Raßnitz": {
@@ -6492,7 +6492,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Schkopau Röglitz": {
@@ -6506,7 +6506,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Schkopau Rübsen": {
@@ -6520,10 +6520,10 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
-	"Schkopau Schkopau": {
+	"Schkopau": {
 		"natrium": 13.5,
 		"kalium": 2.1,
 		"calcium": 49.3,
@@ -6534,7 +6534,7 @@ tw.data.zones = {
 		"hardnessMMO": 1.5,
 		"conductability": 385,
 		"phValue": 8.14,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Schnaudertal Bröckau": {
@@ -6548,7 +6548,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Schnaudertal Dragsdorf": {
@@ -6562,7 +6562,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Schnaudertal Görnitz": {
@@ -6576,7 +6576,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Schnaudertal Großpörthen": {
@@ -6590,7 +6590,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Schnaudertal Hohenkirchen": {
@@ -6604,7 +6604,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Schnaudertal Kleinpörthen": {
@@ -6618,7 +6618,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Schnaudertal Nedissen": {
@@ -6632,7 +6632,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Schnaudertal Weißenborn": {
@@ -6646,7 +6646,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Schnaudertal Wittgendorf": {
@@ -6660,7 +6660,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Seegebiet Mansfelder Land Äbtischrode": {
@@ -6674,7 +6674,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Seegebiet Mansfelder Land Amsdorf": {
@@ -6688,7 +6688,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Seegebiet Mansfelder Land Aseleben": {
@@ -6702,7 +6702,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Seegebiet Mansfelder Land Dederstedt": {
@@ -6716,7 +6716,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Seegebiet Mansfelder Land Elbitz": {
@@ -6730,7 +6730,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Seegebiet Mansfelder Land Erdeborn": {
@@ -6744,7 +6744,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Seegebiet Mansfelder Land Holzzelle": {
@@ -6758,7 +6758,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Seegebiet Mansfelder Land Hornburg": {
@@ -6772,7 +6772,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Seegebiet Mansfelder Land Neehausen": {
@@ -6786,7 +6786,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Seegebiet Mansfelder Land Neue Siedlung": {
@@ -6800,7 +6800,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Seegebiet Mansfelder Land Oberröblingen am See": {
@@ -6814,7 +6814,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Seegebiet Mansfelder Land Röblingen am See": {
@@ -6828,7 +6828,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Seegebiet Mansfelder Land Stedten": {
@@ -6842,7 +6842,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Seegebiet Mansfelder Land Unterröblingen am See": {
@@ -6856,7 +6856,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Seegebiet Mansfelder Land Volkmaritz": {
@@ -6870,7 +6870,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Seegebiet Mansfelder Land Wansleben am See": {
@@ -6884,7 +6884,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Seegebiet Mansfelder Land Wansleben am See": {
@@ -6898,7 +6898,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Seeland Friedrichsaue": {
@@ -6912,7 +6912,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Seeland Frose": {
@@ -6926,7 +6926,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Seeland Gatersleben": {
@@ -6940,7 +6940,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Seeland Hoym": {
@@ -6954,7 +6954,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Seeland Nachterstedt": {
@@ -6968,7 +6968,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Seeland Schadeleben": {
@@ -6982,7 +6982,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Selke-Aue Hausneindorf": {
@@ -6996,7 +6996,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Selke-Aue Heteborn": {
@@ -7010,7 +7010,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Selke-Aue Wedderstedt": {
@@ -7024,7 +7024,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Steigra Albersroda": {
@@ -7038,7 +7038,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Steigra Jüdendorf": {
@@ -7052,7 +7052,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Steigra Kalzendorf": {
@@ -7066,7 +7066,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Steigra Schnellroda": {
@@ -7080,10 +7080,10 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
-	"Steigra Steigra": {
+	"Steigra": {
 		"natrium": 8.3,
 		"kalium": 1.1,
 		"calcium": 25.5,
@@ -7094,7 +7094,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Stößen Nöbeditz": {
@@ -7108,7 +7108,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Stößen Priestädt": {
@@ -7122,10 +7122,10 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
-	"Stößen Stößen": {
+	"Stößen": {
 		"natrium": 19.5,
 		"kalium": 3.95,
 		"calcium": 76.5,
@@ -7136,7 +7136,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Breesen": {
@@ -7150,7 +7150,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Cosa": {
@@ -7164,7 +7164,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Diesdorf": {
@@ -7178,7 +7178,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.15,
 		"conductability": 489,
 		"phValue": 8.09,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Edderitz": {
@@ -7192,7 +7192,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.04,
 		"conductability": 841,
 		"phValue": 7.44,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Fernsdorf": {
@@ -7206,7 +7206,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.04,
 		"conductability": 841,
 		"phValue": 7.44,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Fraßdorf": {
@@ -7220,7 +7220,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.15,
 		"conductability": 489,
 		"phValue": 8.09,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Friedrichsdorf": {
@@ -7234,7 +7234,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.15,
 		"conductability": 489,
 		"phValue": 8.09,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Gnetsch": {
@@ -7248,7 +7248,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Gröbzig": {
@@ -7262,7 +7262,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Großbadegast": {
@@ -7276,7 +7276,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.04,
 		"conductability": 841,
 		"phValue": 7.44,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Hinsdorf": {
@@ -7290,7 +7290,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.15,
 		"conductability": 489,
 		"phValue": 8.09,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Klein-Weißandt": {
@@ -7304,7 +7304,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Kleinbadegast": {
@@ -7318,7 +7318,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.04,
 		"conductability": 841,
 		"phValue": 7.44,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Körnitz": {
@@ -7332,7 +7332,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Lausigk": {
@@ -7346,7 +7346,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.15,
 		"conductability": 489,
 		"phValue": 8.09,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Libehna": {
@@ -7360,7 +7360,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Locherau": {
@@ -7374,7 +7374,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Maasdorf": {
@@ -7388,7 +7388,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.04,
 		"conductability": 841,
 		"phValue": 7.44,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Meilendorf": {
@@ -7402,7 +7402,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Naundorf": {
@@ -7416,7 +7416,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.15,
 		"conductability": 489,
 		"phValue": 8.09,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Pfaffendorf": {
@@ -7430,7 +7430,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Pfriemsdorf": {
@@ -7444,7 +7444,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.04,
 		"conductability": 841,
 		"phValue": 7.44,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Piethen": {
@@ -7458,7 +7458,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.04,
 		"conductability": 841,
 		"phValue": 7.44,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Pösigk": {
@@ -7472,7 +7472,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Prosigk": {
@@ -7486,7 +7486,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.04,
 		"conductability": 841,
 		"phValue": 7.44,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Quellendorf": {
@@ -7500,7 +7500,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.15,
 		"conductability": 489,
 		"phValue": 8.09,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Repau": {
@@ -7514,7 +7514,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Reupzig": {
@@ -7528,7 +7528,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Scheuder": {
@@ -7542,7 +7542,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.15,
 		"conductability": 489,
 		"phValue": 8.09,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Storkau": {
@@ -7556,7 +7556,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.15,
 		"conductability": 489,
 		"phValue": 8.09,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Weißandt": {
@@ -7570,7 +7570,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Weißandt-Gölzau": {
@@ -7584,7 +7584,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Werdershausen": {
@@ -7598,7 +7598,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Wörbzig": {
@@ -7612,7 +7612,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.04,
 		"conductability": 841,
 		"phValue": 7.44,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Zehmigkau": {
@@ -7626,7 +7626,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Südliches Anhalt Ziebigk": {
@@ -7640,7 +7640,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Teuchern Bonau": {
@@ -7654,7 +7654,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Teuchern Deuben": {
@@ -7668,7 +7668,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Teuchern Dippelsdorf": {
@@ -7682,7 +7682,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Teuchern Gröben": {
@@ -7696,7 +7696,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Teuchern Gröbitz": {
@@ -7710,7 +7710,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Teuchern Kistritz": {
@@ -7724,7 +7724,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Teuchern Kössuln": {
@@ -7738,7 +7738,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Teuchern Kostplatz": {
@@ -7752,7 +7752,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Teuchern Krauschwitz": {
@@ -7766,7 +7766,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Teuchern Krössuln": {
@@ -7780,7 +7780,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Teuchern Lagnitz": {
@@ -7794,7 +7794,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Teuchern Naundorf": {
@@ -7808,7 +7808,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Teuchern Nessa": {
@@ -7822,7 +7822,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Teuchern Nödlitz": {
@@ -7836,7 +7836,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Teuchern Obernessa": {
@@ -7850,7 +7850,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Teuchern Oberschwöditz": {
@@ -7864,7 +7864,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Teuchern Plennschütz": {
@@ -7878,7 +7878,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.15,
 		"conductability": 1154,
 		"phValue": 7.33,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Teuchern Plotha": {
@@ -7892,7 +7892,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.15,
 		"conductability": 1154,
 		"phValue": 7.33,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Teuchern Prittitz": {
@@ -7906,7 +7906,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.15,
 		"conductability": 1154,
 		"phValue": 7.33,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Teuchern Reußen": {
@@ -7920,7 +7920,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Teuchern Runthal": {
@@ -7934,7 +7934,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Teuchern Schelkau": {
@@ -7948,7 +7948,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Teuchern Schortau": {
@@ -7962,7 +7962,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Teuchern Tackau": {
@@ -7976,10 +7976,10 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
-	"Teuchern Teuchern": {
+	"Teuchern": {
 		"natrium": 19.5,
 		"kalium": 3.95,
 		"calcium": 76.5,
@@ -7990,7 +7990,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Teuchern Trebnitz": {
@@ -8004,7 +8004,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Teuchern Trebnitz-Siedlung": {
@@ -8018,7 +8018,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Teuchern Unternessa": {
@@ -8032,7 +8032,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Teuchern Wernsdorf": {
@@ -8046,7 +8046,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Teuchern Wildschütz": {
@@ -8060,7 +8060,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Teuchern Zaschendorf": {
@@ -8074,7 +8074,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Teutschenthal Asendorf": {
@@ -8088,7 +8088,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Teutschenthal Dornstedt": {
@@ -8102,7 +8102,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Weißenfels Gniebendorf": {
@@ -8116,7 +8116,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.65,
 		"conductability": 1322,
 		"phValue": 7.41,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Weißenfels Großkorbetha": {
@@ -8130,7 +8130,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.65,
 		"conductability": 1322,
 		"phValue": 7.41,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Weißenfels Kleinkorbetha": {
@@ -8144,7 +8144,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.65,
 		"conductability": 1322,
 		"phValue": 7.41,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Weißenfels Kraßlau": {
@@ -8158,7 +8158,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.65,
 		"conductability": 1322,
 		"phValue": 7.41,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Weißenfels Kriechau": {
@@ -8172,7 +8172,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.65,
 		"conductability": 1322,
 		"phValue": 7.41,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Weißenfels Leina": {
@@ -8186,7 +8186,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.65,
 		"conductability": 1322,
 		"phValue": 7.41,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Weißenfels Leißling": {
@@ -8200,7 +8200,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.15,
 		"conductability": 1154,
 		"phValue": 7.33,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Weißenfels Lobitzsch": {
@@ -8214,7 +8214,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.65,
 		"conductability": 1322,
 		"phValue": 7.41,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Weißenfels Markwerben": {
@@ -8228,7 +8228,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.65,
 		"conductability": 1322,
 		"phValue": 7.41,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Weißenfels Obschütz": {
@@ -8242,7 +8242,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.65,
 		"conductability": 1322,
 		"phValue": 7.41,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Weißenfels Pettstädt": {
@@ -8256,7 +8256,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.65,
 		"conductability": 1322,
 		"phValue": 7.41,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Weißenfels Rödgen": {
@@ -8270,7 +8270,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.15,
 		"conductability": 1154,
 		"phValue": 7.33,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Weißenfels Schkortleben": {
@@ -8284,7 +8284,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.65,
 		"conductability": 1322,
 		"phValue": 7.41,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Weißenfels Storkau": {
@@ -8298,7 +8298,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.65,
 		"conductability": 1322,
 		"phValue": 7.41,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Weißenfels Uichteritz": {
@@ -8312,7 +8312,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.65,
 		"conductability": 1322,
 		"phValue": 7.41,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Weißenfels Wengelsdorf": {
@@ -8326,7 +8326,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.65,
 		"conductability": 1322,
 		"phValue": 7.41,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Wetterzeube Breitenbach": {
@@ -8340,7 +8340,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Wetterzeube Dietendorf": {
@@ -8354,7 +8354,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Wetterzeube Goßra": {
@@ -8368,7 +8368,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Wetterzeube Haynsburg": {
@@ -8382,7 +8382,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Wetterzeube Katersdobersdorf": {
@@ -8396,7 +8396,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Wetterzeube Koßweda": {
@@ -8410,7 +8410,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Wetterzeube Obersiedel": {
@@ -8424,7 +8424,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Wetterzeube Pötewitz": {
@@ -8438,7 +8438,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Wetterzeube Raba": {
@@ -8452,7 +8452,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Wetterzeube Rossendorf": {
@@ -8466,7 +8466,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Wetterzeube Sautzschen": {
@@ -8480,7 +8480,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Wetterzeube Schkauditz": {
@@ -8494,7 +8494,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Wetterzeube Schleckweda": {
@@ -8508,7 +8508,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Wetterzeube Schlottweh": {
@@ -8522,7 +8522,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Wetterzeube Trebnitz": {
@@ -8536,10 +8536,10 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
-	"Wetterzeube Wetterzeube": {
+	"Wetterzeube": {
 		"natrium": 19.5,
 		"kalium": 3.95,
 		"calcium": 76.5,
@@ -8550,7 +8550,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Wettin-Löbejün Rothenburg": {
@@ -8564,10 +8564,10 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
-	"Wimmelburg Wimmelburg": {
+	"Wimmelburg": {
 		"natrium": 8.3,
 		"kalium": 1.1,
 		"calcium": 25.5,
@@ -8578,7 +8578,7 @@ tw.data.zones = {
 		"hardnessMMO": 0.78,
 		"conductability": 206,
 		"phValue": 8.15,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zahna-Elster Bülzig": {
@@ -8592,7 +8592,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.47,
 		"conductability": 545,
 		"phValue": 7.77,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zahna-Elster Klebitz": {
@@ -8606,7 +8606,7 @@ tw.data.zones = {
 		"hardnessMMO": 4.06,
 		"conductability": 771,
 		"phValue": 7.74,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zahna-Elster Leetza": {
@@ -8620,7 +8620,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.47,
 		"conductability": 545,
 		"phValue": 7.77,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zahna-Elster Ottmannsdorf": {
@@ -8634,7 +8634,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.47,
 		"conductability": 545,
 		"phValue": 7.77,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zahna-Elster Rahnsdorf": {
@@ -8648,7 +8648,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.47,
 		"conductability": 545,
 		"phValue": 7.77,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zahna-Elster Raßdorf": {
@@ -8662,7 +8662,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.47,
 		"conductability": 545,
 		"phValue": 7.77,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zahna-Elster Woltersdorf": {
@@ -8676,7 +8676,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.47,
 		"conductability": 545,
 		"phValue": 7.77,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zahna-Elster Zahna": {
@@ -8690,7 +8690,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.47,
 		"conductability": 545,
 		"phValue": 7.77,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zahna-Elster Zallmsdorf": {
@@ -8704,7 +8704,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.47,
 		"conductability": 545,
 		"phValue": 7.77,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zahna-Elster Zörnigall": {
@@ -8718,7 +8718,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.47,
 		"conductability": 545,
 		"phValue": 7.77,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zeitz Bockwitz": {
@@ -8732,7 +8732,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zeitz Bröditz": {
@@ -8746,7 +8746,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zeitz Geußnitz": {
@@ -8760,7 +8760,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zeitz Kayna": {
@@ -8774,7 +8774,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zeitz Lindenberg": {
@@ -8788,7 +8788,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zeitz Lobas": {
@@ -8802,7 +8802,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zeitz Loitsch": {
@@ -8816,7 +8816,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zeitz Luckenau": {
@@ -8830,7 +8830,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zeitz Mahlen": {
@@ -8844,7 +8844,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zeitz Nonnewitz": {
@@ -8858,7 +8858,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zeitz Pirkau": {
@@ -8872,7 +8872,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zeitz Reußen": {
@@ -8886,7 +8886,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zeitz Roda": {
@@ -8900,7 +8900,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zeitz Steinbrüchen": {
@@ -8914,7 +8914,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zeitz Stockhausen": {
@@ -8928,7 +8928,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zeitz Streckau": {
@@ -8942,7 +8942,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zeitz Suxdorf": {
@@ -8956,7 +8956,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zeitz Theißen": {
@@ -8970,7 +8970,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zeitz Unterschwöditz": {
@@ -8984,7 +8984,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zeitz Weidau": {
@@ -8998,7 +8998,7 @@ tw.data.zones = {
 		"hardnessMMO": 2.37,
 		"conductability": 564,
 		"phValue": 8.03,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zeitz Wildenborn": {
@@ -9012,7 +9012,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zeitz Wildensee": {
@@ -9026,7 +9026,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zeitz Würchwitz": {
@@ -9040,7 +9040,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zeitz Zettweil": {
@@ -9054,7 +9054,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.1,
 		"conductability": 715,
 		"phValue": 7.72,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zörbig Großzöberitz": {
@@ -9068,7 +9068,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zörbig Salzfurtkapelle": {
@@ -9082,7 +9082,7 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	},
 	"Zörbig Wadendorf": {
@@ -9096,7 +9096,14 @@ tw.data.zones = {
 		"hardnessMMO": 3.28,
 		"conductability": 713,
 		"phValue": 7.8,
-		"year": 2017,
+		"year": 2016,
 		"description": ""
 	}
-}
+};
+tw.data.averageValues = {
+    "natrium": 16.29,
+    "kalium": 2.64,
+    "calcium": 60.35,
+    "magnesium": 8.99,
+    "hardness": 10.64
+};

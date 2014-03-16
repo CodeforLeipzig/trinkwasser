@@ -19,6 +19,25 @@ tw.data.referenceWaters = {
 		"sulfat": 1450,
 		"sources": ["http://www.teusser.de/index.php?id=225"]
 	},
+	"blankenburger": {
+		"natrium": 8.2,
+		"kalium": 2.1,
+		"calcium": 146,
+		"magnesium": 24.6,
+		"chlorid": 35.1,
+		"nitrat": 0.50,
+		"sulfat": 176,
+		"sources": ["http://www.fristo.de/popup/wassersorten-mineraliengehalt/ "]
+	},
+	"schlossfelder": {
+		"natrium": 64.60,
+		"kalium": 6.3,
+		"calcium": 220,
+		"magnesium": 63.6,
+		"chlorid": 302.00,
+		"sulfat": 253.00,
+		"sources": ["http://www.fristo.de/popup/wassersorten-mineraliengehalt/ "]
+	},
 	"volvic": {
 		"natrium": 11.6,
 		"kalium": 6.2,
