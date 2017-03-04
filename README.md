@@ -17,7 +17,7 @@ Es wird daran gearbeitet die Daten ebenfalls unter einer freien Lizenz zu veröf
 3. Grunt global installieren mit `npm install -g grunt`.Grunt wird zwingend benötigt, da es die Webseite generiert.
 4. `grunt` aufrufen, damit die Webseite gebaut wird. Im Anschluss existiert unter *dist* die fertige statische Seite. 
 
-## Format der zu visualiserenden Daten
+## Format der zu visualisierenden Daten
 
 # Mögliche Erweiterungen
 * Karte mit Standorten wo Messwerte vorhanden sind
