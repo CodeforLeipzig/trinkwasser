@@ -12,3 +12,10 @@ Es wird daran gearbeitet die Daten ebenfalls unter einer freien Lizenz zu veröf
 ## Motivation
 ## Statische Seite generieren
 ## Format der zu visualiserenden Daten
+
+# Mögliche Erweiterungen
+* Karte mit Standorten wo Messwerte vorhanden sind
+* GefahrenHeatmap pro Inhaltsstoff
+* Livedatenanbindung (nicht statische Daten verwenden)
+* Preis pro mm^3 Leitungswasser
+* Ist das dieses Wasser geeignet für diese Bevölkerungsgruppe (Babys, Senioren)
