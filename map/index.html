@@ -1,0 +1,74 @@
+<html>
+	<head>
+		<title>Trinkwasser Karte</title>
+		<meta charset="UTF-8"/>
+		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
+		<script type="text/javascript" src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js"></script>
+		<style>
+			#map{ height: 100% }
+		</style>
+	</head>
+	<body>
+		<div id="map" />
+		<script>
+			function style(feature) {
+				return {
+					fillColor: getNatriumColor(feature.properties.tags.natrium),
+					weight: 2,
+					opacity: 1,
+					color: 'white',
+					fillOpacity: 1
+				};
+			}
+			function getNatriumColor(d) {
+				return d > 80 ? '#800026' :
+					d > 40  ? '#BD0026' :
+					d > 25  ? '#E31A1C' :
+					d > 20  ? '#FC4E2A' :
+					d > 15   ? '#FD8D3C' :
+					d > 10   ? '#FEB24C' :
+					d > 5   ? '#FED976' :
+                    '#FFEDA0';
+			}
+		
+			var map = L.map('map').setView([51.4437366804, 11.865234375], 9);
+			L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+				{
+					attribution: 'Map data © <a href="http://openstreetmap.org">OpenStreetMap</a> contributors</a>',
+					maxZoom: 12,
+					minZoom: 8
+				}
+			).addTo(map);
+			var geojsonLayer = new L.GeoJSON.AJAX("sachsen-anhalt.geojson", {style: style});       
+			geojsonLayer.addTo(map);
+			
+			var getCentroid = function (arr) { 
+				return arr.reduce(function (x,y) {
+					return [x[0] + y[0]/arr.length, x[1] + y[1]/arr.length] 
+				}, [0,0]) 
+			}
+
+			var layerPopup;
+			geojsonLayer.on('mouseover', function(e) {
+				var coordinates = e.layer.feature.geometry.coordinates;
+				var centroid = getCentroid(coordinates[0])
+				var swapped_coordinates = [centroid[1], centroid[0]];
+				if (map) {
+				    var props = e.layer.feature.properties
+					layerPopup = L.popup()
+						.setLatLng(swapped_coordinates)
+						.setContent(props.tags.name + ': ' + props.tags.natrium)
+						.openOn(map);
+				}
+			});
+			geojsonLayer.on('mouseout', function (e) {
+				if (layerPopup && map) {
+					map.closePopup(layerPopup);
+					layerPopup = null;
+				}
+			});
+		</script>
+	</body>
+</html>
+	
