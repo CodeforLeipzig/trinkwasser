@@ -30,6 +30,7 @@ import static extension generator.GeneratorMain.getHardnessMMO
 import static extension generator.GeneratorMain.getHardnessRange
 import static extension generator.GeneratorMain.getKalium
 import static extension generator.GeneratorMain.getMagnesium
+import static extension generator.GeneratorMain.getMostFrequent
 import static extension generator.GeneratorMain.getNatrium
 import static extension generator.GeneratorMain.getPHValue
 import java.util.HashMap
@@ -44,7 +45,7 @@ class GeoJSONReducerMain {
 	}
 
 	def static void main(String[] args) {
-      	val file = new File("G:/Arbeit/OKLab/OpenDataDay/Trinkwasser/osm_relations_full.geojson")
+      	val file = new File("F:/Arbeit/OKLab/OpenDataDay/Trinkwasser/osm_relations_full.geojson")
       	val scanner = new Scanner(file, "ISO-8859-15")
       	scanner.useDelimiter("\\Z")
       	val inputStream = new ByteArrayInputStream(scanner.next.getBytes("UTF-8"));
@@ -53,7 +54,7 @@ class GeoJSONReducerMain {
 		inputStream.close
 
 		val keysAndValues = GeneratorMain.getKeysAndValues(
-			"G:/Arbeit/OKLab/OpenDataDay/Trinkwasser/trinkwasser_daten/TW-Quali_230217.csv")
+			"F:/Arbeit/OKLab/OpenDataDay/Trinkwasser/trinkwasser_daten/TW-Quali_230217.csv")
 		val keys = keysAndValues.key
 		val valuesList = keysAndValues.value
 
@@ -133,10 +134,19 @@ class GeoJSONReducerMain {
 		val tags = feature.properties.get("tags") as HashMap<String, Object>
 		val ortsteile = tags.get("ortsteile") as HashMap<String, HashMap<String, Object>>
 		tags.transformDoubles(ortsteile, "natrium")
+		tags.transformStrings(ortsteile, "hardnessRange")
+		tags.transformDoubles(ortsteile, "calcium")
+		tags.transformDoubles(ortsteile, "magnesium")
+		tags.transformDoubles(ortsteile, "natrium")
+		tags.transformDoubles(ortsteile, "kalium")
 	}
 	
 	private static def transformDoubles(HashMap<String, Object> tags, HashMap<String, HashMap<String, Object>> ortsteile, String key) {
 		tags.put(key, ortsteile.values.map[get(key)].map[String.valueOf(it)].getAverage)
+	}
+
+	private static def transformStrings(HashMap<String, Object> tags, HashMap<String, HashMap<String, Object>> ortsteile, String key) {
+		tags.put(key, ortsteile.values.map[get(key)].map[String.valueOf(it)].getMostFrequent)
 	}
 	
 	private static def mapGemeindeName(String gemeinde) {
