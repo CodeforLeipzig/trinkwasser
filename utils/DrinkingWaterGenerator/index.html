@@ -7,6 +7,8 @@
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js"></script>
 		<style>
 			#map{ height: 100% }
+			.info { padding: 6px 8px; font: 14px/16px Arial, Helvetica, sans-serif; background: white; background: rgba(255,255,255,0.8); box-shadow: 0 0 15px rgba(0,0,0,0.2); border-radius: 5px; } .info h4 { margin: 0 0 5px; color: #777; }
+			.legend { text-align: left; line-height: 18px; color: #555; } .legend i { width: 18px; height: 18px; float: left; margin-right: 8px; opacity: 0.7; }			
 		</style>
 	</head>
 	<body>
@@ -31,17 +33,136 @@
 					d > 5   ? '#FED976' :
                     '#FFEDA0';
 			}
+			var getLabel = function(key) {
+				return key == 'hardnessRange' ? 'H&auml;rte' :
+					key == 'calcium' ? 'Calcium' :
+					key == 'magnesium' ? 'Magnesium' :
+					key == 'natrium' ? 'Natrium' :
+					key == 'kalium'  ? 'Kalium' :
+                    'unknown';
+			};
+			var getKey = function(label) {
+				return label == 'H\u00e4rte' ? 'hardnessRange' :
+					label == 'Calcium' ? 'calcium' :
+					label == 'Magnesium' ? 'magnesium' :
+					label == 'Natrium' ? 'natrium' :
+					label == 'Kalium'  ? 'kalium' :
+                    'unknown';
+			};
+			var getValueLabel = function(value) {
+				return value == 'hard' ? 'hart' :
+					value == 'soft' ? 'weich' :
+                    value;
+			};
 		
 			var map = L.map('map').setView([51.4437366804, 11.865234375], 9);
 			L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
 				{
-					attribution: 'Map data © <a href="http://openstreetmap.org">OpenStreetMap</a> contributors</a>',
+					attribution: 'Map data &#64; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors</a>',
 					maxZoom: 12,
 					minZoom: 8
 				}
 			).addTo(map);
 			var geojsonLayer = new L.GeoJSON.AJAX("sachsen-anhalt.geojson", {style: style});       
 			geojsonLayer.addTo(map);
+			
+			// control that shows state info on hover
+			var info = L.control();
+		
+			info.onAdd = function (map) {
+				this._div = L.DomUtil.create('div', 'info');
+				this.update();
+				return this._div;
+			};
+			var lastSelection = '';
+			var handleAttributeSelection = function() {
+				var box = document.getElementById("attributeSelectionBox");
+				if(box && box.selectedIndex != -1) {
+					var value = box.options[box.selectedIndex].value;
+					var selectedText = box.options[box.selectedIndex].text;
+					var localLastSelection = getKey(selectedText);
+					if(localLastSelection != 'unknown') {
+						lastSelection = localLastSelection;
+					}
+				}
+			};
+			var initialSelection = function() {
+				var box = document.getElementById('attributeSelectionBox');
+				if(box) {
+					for(var option, index = 0; option = box.options[index]; index++) {
+					    if(option.value == getLabel(lastSelection)) {
+					        box.selectedIndex = index;
+					        break;
+					    }
+					}
+				}
+			};
+			var oldCodeStr = '';
+			var selectionBox = function(props) {
+				var codeStr = '<select id="attributeSelectionBox" onchange="handleAttributeSelection()">';
+				if(props || !oldCodeStr) {
+					var tags = props ? props.tags : {'hardnessRange':'', 'calcium':'', 'magnesium':'', 'natrium':'', 'kalium':''};
+					for(var prop in tags) {
+						if (!props || (props && props.tags.hasOwnProperty(prop))) {
+							var label = getLabel(prop);
+							if(label != 'unknown') {
+								codeStr += '<option>' + label + '</option>';
+							}
+						}
+					}
+					codeStr += '</select>';
+					oldCodeStr = codeStr;
+					return codeStr;
+				} else {
+					return oldCodeStr;
+				}
+			};
+			var selectedAttribute = function() {
+				var box = document.getElementById("attributeSelectionBox");
+				if(box && box.selectedIndex != -1) {
+					var option = box.options[box.selectedIndex];
+					if(option) {
+						var value = option.value;
+						return getKey(box.options[box.selectedIndex].text);
+					} else {
+						''
+					}
+				} else {
+					''
+				}
+			};
+		
+			info.update = function (props) {
+				var htmlInner = '<div style="width: 300px;"><h4>Trinkwasser Qualit&auml;t</h4>'; 
+				if(props) {
+					htmlInner += '<h4>' + props.tags.name + '</h4>'; 
+				} else {
+					htmlInner += '<h4>Hovere &uuml;ber eine Gemeinde</h4>'
+				}
+				htmlInner += selectionBox(props) + ' = '; 
+				if(props) {
+					htmlInner += getValueLabel(props.tags[selectedAttribute()]);
+				}
+				htmlInner += '</div>';
+				this._div.innerHTML = htmlInner;
+			};
+		
+			info.addTo(map);
+			
+			function highlightFeature(e) {
+				var layer = e.target;
+				if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+					layer.bringToFront();
+				}
+		
+				info.update(e.layer.feature.properties);
+				initialSelection();
+			}
+			
+			function resetHighlight(e) {
+				info.update();
+				initialSelection();
+			}
 			
 			var getCentroid = function (arr) { 
 				return arr.reduce(function (x,y) {
@@ -61,14 +182,39 @@
 						.setContent(props.tags.name + ': ' + props.tags.natrium)
 						.openOn(map);
 				}
+				highlightFeature(e);
 			});
 			geojsonLayer.on('mouseout', function (e) {
 				if (layerPopup && map) {
 					map.closePopup(layerPopup);
 					layerPopup = null;
+					resetHighlight(e);
 				}
 			});
+			
+			var legend = L.control({position: 'bottomright'});
+		
+			legend.onAdd = function (map) {
+		
+				var div = L.DomUtil.create('div', 'info legend');
+				var grades = [0, 5, 10, 15, 20, 25, 40, 80];
+				var labels = [];
+				var from, to;
+		
+				for (var i = 0; i < grades.length; i++) {
+					from = grades[i];
+					to = grades[i+1];
+		
+					labels.push(
+						'<i style="background:' + getNatriumColor(from + 1) + '"></i> ' +
+						from + (to ? '&ndash;' + to : '+'));
+				}
+		
+				div.innerHTML = 'Natrium in mg/l<br /<br />' + labels.join('<br>');
+				return div;
+			};
+		
+			legend.addTo(map);
 		</script>
 	</body>
 </html>
-	
