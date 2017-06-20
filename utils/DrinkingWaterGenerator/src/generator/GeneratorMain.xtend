@@ -165,6 +165,10 @@ class GeneratorMain {
       return df.format(doubleValues.reduce[v1, v2|v1 + v2] / count)
    }
    
+   def static getMostFrequent(Iterable<String> values) {
+   	  values.groupBy[it].entrySet.map[key -> value.size].sortBy[value].map[key].head	
+   }   
+   
    def static getGemeinde(List<String> values, List<String> keys) {
       return values.getValueForKey(keys, "Gemeinde")
    }
