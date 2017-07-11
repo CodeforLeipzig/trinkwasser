@@ -38,7 +38,7 @@ import java.util.HashMap
 class GeoJSONReducerMain {
 	
 	private static final Map<String, String> GEMEINDE_MAPPING = #{
-		"KÃ¶then" -> "KÃ¶then (Anhalt)",
+		"Köthen" -> "Köthen (Anhalt)",
 		"Lutherstadt Eisleben" -> "Eisleben",
 		"Lutherstadt Wittenberg" -> "Wittenberg",
 		"Nienburg" -> "Nienburg (Saale)"
@@ -86,7 +86,7 @@ class GeoJSONReducerMain {
 							}
 						]
 						handledGemeinden.put(gemeinde, newFeature) 
-						println('''processed: Â«gemeindeÂ»''')
+						println('''processed: «gemeinde»''')
 					} else {
 						notHandled.add(gemeinde)
 					}

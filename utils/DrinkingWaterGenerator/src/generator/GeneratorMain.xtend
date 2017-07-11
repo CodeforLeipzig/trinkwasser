@@ -87,13 +87,13 @@ class GeneratorMain {
       }
       val gen = '''
          tw.data.locations = {
-            Â«FOR gemeinde : map.keySet.sort SEPARATOR ','Â»
-               "Â«gemeindeÂ»": {
-                  Â«FOR ortsteil : map.get(gemeinde).sort SEPARATOR ','Â»
-                     "Â«ortsteilÂ»": {}
-                  Â«ENDFORÂ»
+            «FOR gemeinde : map.keySet.sort SEPARATOR ','»
+               "«gemeinde»": {
+                  «FOR ortsteil : map.get(gemeinde).sort SEPARATOR ','»
+                     "«ortsteil»": {}
+                  «ENDFOR»
                }
-            Â«ENDFORÂ»
+            «ENDFOR»
          }
       '''
       writeFile("locations-sachsen-anhalt.js", gen)      
@@ -122,35 +122,35 @@ class GeneratorMain {
       scanner.close
       val gen = '''
          tw.data.zones = {
-            Â«FOR values : valuesList SEPARATOR ','Â»
-               "Â«values.getGemeinde(keys)Â»Â«values.getOrtsteilIfRequired(keys)Â»": {
-                  "natrium": Â«values.getNatrium(keys)Â»,
-                  "kalium": Â«values.getKalium(keys)Â»,
-                  "calcium": Â«values.getCalcium(keys)Â»,
-                  "magnesium": Â«values.getMagnesium(keys)Â»,
-Â«Â«Â«                  "chlorid": Â«values.getChlorid(keys)Â»,
-Â«Â«Â«                  "nitrat": Â«values.getNitrat(keys)Â»,
-Â«Â«Â«                  "sulfat": Â«values.getSulfat(keys)Â»,
-                  "hardness": Â«values.getHardness(keys)Â»,
+            «FOR values : valuesList SEPARATOR ','»
+               "«values.getGemeinde(keys)»«values.getOrtsteilIfRequired(keys)»": {
+                  "natrium": «values.getNatrium(keys)»,
+                  "kalium": «values.getKalium(keys)»,
+                  "calcium": «values.getCalcium(keys)»,
+                  "magnesium": «values.getMagnesium(keys)»,
+«««                  "chlorid": «values.getChlorid(keys)»,
+«««                  "nitrat": «values.getNitrat(keys)»,
+«««                  "sulfat": «values.getSulfat(keys)»,
+                  "hardness": «values.getHardness(keys)»,
                   // extra values
-                  "hardnessRange": "Â«values.getHardnessRange(keys)Â»",
-                  "hardnessMMO": Â«values.getHardnessMMO(keys)Â»,
-                  "conductability": Â«values.getConductability(keys)Â»,
-                  "phValue": Â«values.getPHValue(keys)Â»,
+                  "hardnessRange": "«values.getHardnessRange(keys)»",
+                  "hardnessMMO": «values.getHardnessMMO(keys)»,
+                  "conductability": «values.getConductability(keys)»,
+                  "phValue": «values.getPHValue(keys)»,
                   "year": 2016,
                   "description": ""
                }
-           Â«ENDFORÂ»
+           «ENDFOR»
          };
          tw.data.averageValues = {
-             "natrium": Â«valuesList.map[getNatrium(keys)].getAverageÂ»,
-             "kalium": Â«valuesList.map[getKalium(keys)].getAverageÂ»,
-             "calcium": Â«valuesList.map[getCalcium(keys)].getAverageÂ»,
-             "magnesium": Â«valuesList.map[getMagnesium(keys)].getAverageÂ»,
-Â«Â«Â«             "chlorid": 22.2,
-Â«Â«Â«             "nitrat": 4.5,
-Â«Â«Â«             "sulfat": 32.1,
-             "hardness": Â«valuesList.map[getHardness(keys)].getAverageÂ»
+             "natrium": «valuesList.map[getNatrium(keys)].getAverage»,
+             "kalium": «valuesList.map[getKalium(keys)].getAverage»,
+             "calcium": «valuesList.map[getCalcium(keys)].getAverage»,
+             "magnesium": «valuesList.map[getMagnesium(keys)].getAverage»,
+«««             "chlorid": 22.2,
+«««             "nitrat": 4.5,
+«««             "sulfat": 32.1,
+             "hardness": «valuesList.map[getHardness(keys)].getAverage»
          };
       '''
       writeFile("zones-sachsen-anhalt.js", gen)      
@@ -200,11 +200,11 @@ class GeneratorMain {
    }
 
    def static getHardness(List<String> values, List<String> keys) {
-      return values.getValueForKey(keys, "HÃ¤rte")
+      return values.getValueForKey(keys, "Härte")
    }
 
    def static getHardnessRange(List<String> values, List<String> keys) {
-      val value = values.getValueForKey(keys, "HÃ¤rtebereich")
+      val value = values.getValueForKey(keys, "Härtebereich")
       val convertedValue = switch (value) {
          case "weich": "soft",
          case "hart": "hard"
@@ -214,11 +214,11 @@ class GeneratorMain {
    }
 
    def static getHardnessMMO(List<String> values, List<String> keys) {
-      return values.getValueForKey(keys, "HÃ¤rte (mmo)")
+      return values.getValueForKey(keys, "Härte (mmo)")
    }
 
    def static getConductability(List<String> values, List<String> keys) {
-      return values.getValueForKey(keys, "LeitfÃ¤higkeit")
+      return values.getValueForKey(keys, "Leitfähigkeit")
    }
 
    def static getPHValue(List<String> values, List<String> keys) {
