@@ -235,7 +235,7 @@
 				var box = document.getElementById('attributeSelectionBox');
 				if(box) {
 					for(var option, index = 0; option = box.options[index]; index++) {
-					    if(option.value == getLabel(lastSelection)) {
+					    if(option.value.replace('ä', '&auml;') == getLabel(lastSelection)) {
 					        box.selectedIndex = index;
 					        break;
 					    }
