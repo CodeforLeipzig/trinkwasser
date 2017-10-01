@@ -308,9 +308,16 @@
 			}
 			
 			var getCentroid = function (arr) { 
-				return arr.reduce(function (x,y) {
-					return [x[0] + y[0]/arr.length, x[1] + y[1]/arr.length] 
-				}, [0,0]) 
+			    var arrToUse;
+			    // handle multi polygon
+			    if(arr.length == 1) {
+			        arrToUse = arr[0];
+			    } else {
+			    	arrToUse = arr;
+			    }
+			    return arrToUse.reduce(function (x,y) {
+				return [x[0] + y[0]/arrToUse.length, x[1] + y[1]/arrToUse.length] 
+			    }, [0,0])
 			}
 
 			var layerPopup;
