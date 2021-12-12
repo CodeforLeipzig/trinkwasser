@@ -37,7 +37,7 @@ import java.util.HashMap
 
 class GeoJSONReducerMain {
 	
-	private static final Map<String, String> GEMEINDE_MAPPING = #{
+	static final Map<String, String> GEMEINDE_MAPPING = #{
 		"Köthen" -> "Köthen (Anhalt)",
 		"Lutherstadt Eisleben" -> "Eisleben",
 		"Lutherstadt Wittenberg" -> "Wittenberg",
