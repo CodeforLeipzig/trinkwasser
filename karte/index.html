@@ -1,0 +1,384 @@
+﻿<html>
+	<head>
+		<title>Trinkwasser Karte</title>
+		<meta charset="UTF-8"/>
+		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
+		<script type="text/javascript" src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js"></script>
+		<style>
+			#map{ height: 100% }
+			.info { padding: 6px 8px; font: 14px/16px Arial, Helvetica, sans-serif; background: white; background: rgba(255,255,255,0.8); box-shadow: 0 0 15px rgba(0,0,0,0.2); border-radius: 5px; } .info h4 { margin: 0 0 5px; color: #777; }
+			.legend { text-align: left; line-height: 18px; color: #555; } .legend i { width: 18px; height: 18px; float: left; margin-right: 8px; opacity: 0.7; }			
+		</style>
+	</head>
+	<body>
+		<div id="map" />
+		<script>
+			var lastSelection = 'natrium';
+
+			function style(feature) {
+				return {
+					fillColor: getAttributeColorOutOfTags(feature.properties.tags),
+					weight: 2,
+					opacity: 1,
+					color: 'white',
+					fillOpacity: 1
+				};
+			}
+			var natriumGrades =  [0, 5, 10, 15, 20, 25, 40, 80];
+			var kaliumGrades = [0, 1, 2, 3, 5, 6, 8, 10];
+			var calciumGrades = [0, 20, 40, 60, 80, 100, 120];
+			var magnesiumGrades = [0, 5, 10, 15, 20, 25, 30, 35];
+			var hardnessGrades = ["weich", "mittel", "hart"];
+			
+			function getAttributeGrades() {
+				if(lastSelection == "natrium") {
+					return natriumGrades;
+				} else if(lastSelection == "kalium") {
+					return kaliumGrades;
+				} else if(lastSelection == "calcium") {
+					return calciumGrades;
+				} else if(lastSelection == "magnesium") {
+					return magnesiumGrades;
+				} else if(lastSelection == "hardnessRange") {
+					return hardnessGrades;
+				} else {
+					return [];
+				}
+			}
+			
+			function getAttributeColorOutOfTags(tags) {
+				if(lastSelection == "natrium") {
+					return getNatriumColor(tags.natrium)
+				} else if(lastSelection == "kalium") {
+					return getKaliumColor(tags.kalium)
+				} else if(lastSelection == "calcium") {
+					return getCalciumColor(tags.calcium)
+				} else if(lastSelection == "magnesium") {
+					return getMagnesiumColor(tags.magnesium)
+				} else if(lastSelection == "hardnessRange") {
+					return getHardnessColor(tags.hardnessRange)
+				} else {
+					return getDefaultBgColor();
+				}
+			}
+			function getAttributeColor(d) {
+				if(lastSelection == "natrium") {
+					return getNatriumColor(d)
+				} else if(lastSelection == "kalium") {
+					return getKaliumColor(d)
+				} else if(lastSelection == "calcium") {
+					return getCalciumColor(d)
+				} else if(lastSelection == "magnesium") {
+					return getMagnesiumColor(d)
+				} else if(lastSelection == "hardnessRange") {
+					return getHardnessColor(d)
+				} else {
+					return getDefaultBgColor();
+				}
+			}
+			function getNatriumColor(d) {
+				return d > 80 ? '#800026' :
+					d > 40  ? '#BD0026' :
+					d > 25  ? '#E31A1C' :
+					d > 20  ? '#FC4E2A' :
+					d > 15   ? '#FD8D3C' :
+					d > 10   ? '#FEB24C' :
+					d > 5   ? '#FED976' :
+                    '#FFEDA0';
+			}
+			function getKaliumColor(d) {
+				return d > 10 ? '#800026' :
+					d > 8  ? '#BD0026' :
+					d > 6  ? '#E31A1C' :
+					d > 5  ? '#FC4E2A' :
+					d > 3   ? '#FD8D3C' :
+					d > 2   ? '#FEB24C' :
+					d > 1   ? '#FED976' :
+                    '#FFEDA0';
+			}
+			function getCalciumColor(d) {
+				return d > 120 ? '#800026' :
+					d > 100  ? '#BD0026' :
+					d > 80  ? '#E31A1C' :
+					d > 60  ? '#FC4E2A' :
+					d > 40   ? '#FD8D3C' :
+					d > 20   ? '#FEB24C' :
+					d > 0   ? '#FED976' :
+                    '#FFEDA0';
+			}
+			function getMagnesiumColor(d) {
+				return d > 30 ? '#800026' :
+					d > 25  ? '#BD0026' :
+					d > 20  ? '#E31A1C' :
+					d > 15  ? '#FC4E2A' :
+					d > 10   ? '#FD8D3C' :
+					d > 5   ? '#FEB24C' :
+					d > 0   ? '#FED976' :
+                    '#FFEDA0';
+			}
+			function getHardnessColor(d) {
+				return d == "hart1" ? '#800026' :
+					d == "mittel1" ? '#FC4E2A' :
+                    d == "weich1" ? '#FFEDA0' :
+					d == "hard" ? '#800026' :
+                    d == "soft" ? '#FFEDA0' :
+					'#FC4E2A';
+			}
+			function getDefaultBgColor() {
+                return '#FFEDA0';
+			}
+
+			var natriumLegend = 'Natrium in mg/l';
+			var kaliumLegend = 'Kalium in mg/l';
+			var calciumLegend = 'Calcium in mg/l';
+			var magnesiumLegend = 'Magnesium in mg/l';
+			var hardnessLegend = 'Härte';
+
+			function getLegendLabel() {
+				if(lastSelection == "natrium") {
+					return natriumLegend;
+				} else if(lastSelection == "kalium") {
+					return kaliumLegend;
+				} else if(lastSelection == "calcium") {
+					return calciumLegend;
+				} else if(lastSelection == "magnesium") {
+					return magnesiumLegend;
+				} else if(lastSelection == "hardnessRange") {
+					return hardnessLegend;
+				} else {
+					return "unknown";
+				}				
+			}
+
+			function getValue(tags) {
+				if(lastSelection == "natrium") {
+					return tags.natrium;
+				} else if(lastSelection == "kalium") {
+					return tags.kalium;
+				} else if(lastSelection == "calcium") {
+					return tags.calcium;
+				} else if(lastSelection == "magnesium") {
+					return tags.magnesium;
+				} else if(lastSelection == "hardnessRange") {
+					return tags.hardnessRange;
+				} else {
+					return "unknown";
+				}
+			}
+
+			var getLabel = function(key) {
+				return key == 'hardnessRange' ? 'H&auml;rte' :
+					key == 'calcium' ? 'Calcium' :
+					key == 'magnesium' ? 'Magnesium' :
+					key == 'natrium' ? 'Natrium' :
+					key == 'kalium'  ? 'Kalium' :
+                    'unknown';
+			};
+			var getKey = function(label) {
+				return label == 'H\u00e4rte' ? 'hardnessRange' :
+					label == 'Calcium' ? 'calcium' :
+					label == 'Magnesium' ? 'magnesium' :
+					label == 'Natrium' ? 'natrium' :
+					label == 'Kalium'  ? 'kalium' :
+                    'unknown';
+			};
+			var getValueLabel = function(value) {
+				return value == 'hard' ? 'hart' :
+					value == 'soft' ? 'weich' :
+                    value;
+			};
+		
+			var map = L.map('map').setView([51.4437366804, 11.865234375], 9);
+			L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+				{
+					attribution: 'Map data &#64; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors</a> | Trinkwasserdaten von <a href="https://www.midewa.de/">MIDEWA Wasserversorgungsgesellschaft in Mitteldeutschland mbH</a>, Stand 2016 | zurück zur <a href="../index.html">Trinkwasser-Anwendung</a>',
+					maxZoom: 12,
+					minZoom: 8
+				}
+			).addTo(map);
+			var geojsonLayer;
+			var initGeoJSONLayer = function() {
+				geojsonLayer = new L.GeoJSON.AJAX("sachsen-anhalt.geojson", {style: style});
+				geojsonLayer.addTo(map);
+			};    
+			initGeoJSONLayer();
+			
+			// control that shows state info on hover
+			var info = L.control();
+		
+			info.onAdd = function (map) {
+				this._div = L.DomUtil.create('div', 'info');
+				this.update();
+				return this._div;
+			};
+			var handleAttributeSelection = function() {
+				var box = document.getElementById("attributeSelectionBox");
+				if(box && box.selectedIndex != -1) {
+					var value = box.options[box.selectedIndex].value;
+					var selectedText = box.options[box.selectedIndex].text;
+					var localLastSelection = getKey(selectedText);
+					if(localLastSelection != 'unknown') {
+						lastSelection = localLastSelection;
+						if (lastSelection != "") {
+							map.removeLayer(geojsonLayer);
+							initGeoJSONLayer();
+							registerLayerMouseOver();
+							registerLayerMouseOut();
+							registerLegend();
+							legend.addTo(map);
+						}
+					}
+				}
+			};
+			var initialSelection = function() {
+				var box = document.getElementById('attributeSelectionBox');
+				if(box) {
+					for(var option, index = 0; option = box.options[index]; index++) {
+					    if(option.value.replace('ä', '&auml;') == getLabel(lastSelection)) {
+					        box.selectedIndex = index;
+					        break;
+					    }
+					}
+				}
+			};
+			var oldCodeStr = '';
+			var selectionBox = function(props) {
+				var codeStr = '<select id="attributeSelectionBox" onchange="handleAttributeSelection()">';
+				if(props || !oldCodeStr) {
+					var tags = {'natrium':'', 'kalium':'', 'calcium':'', 'magnesium':'', 'hardnessRange':'', };
+					for(var prop in tags) {
+						var label = getLabel(prop);
+						if(label != 'unknown') {
+							codeStr += '<option>' + label + '</option>';
+						}
+					}
+					codeStr += '</select>';
+					oldCodeStr = codeStr;
+					return codeStr;
+				} else {
+					return oldCodeStr;
+				}
+			};
+			var selectedAttribute = function() {
+				var box = document.getElementById("attributeSelectionBox");
+				if(box && box.selectedIndex != -1) {
+					var option = box.options[box.selectedIndex];
+					if(option) {
+						var value = option.value;
+						return getKey(box.options[box.selectedIndex].text);
+					} else {
+						''
+					}
+				} else {
+					''
+				}
+			};
+		
+			info.update = function (props) {
+				var htmlInner = '<div style="width: 300px;"><h4>Trinkwasser Qualit&auml;t</h4>'; 
+				if(props) {
+					htmlInner += '<h4>' + props.tags.name + '</h4>'; 
+				} else {
+					htmlInner += '<h4>Hovere &uuml;ber eine Gemeinde</h4>'
+				}
+				htmlInner += selectionBox(props) + ' = '; 
+				if(props) {
+					htmlInner += getValueLabel(props.tags[selectedAttribute()]);
+				}
+				htmlInner += '</div>';
+				this._div.innerHTML = htmlInner;
+			};
+		
+			info.addTo(map);
+			
+			function highlightFeature(e) {
+				var layer = e.target;
+				if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
+					layer.bringToFront();
+				}
+		
+				info.update(e.layer.feature.properties);
+				initialSelection();
+			}
+			
+			function resetHighlight(e) {
+				info.update();
+				initialSelection();
+			}
+			
+			var getCentroid = function (arr) { 
+			    var arrToUse;
+			    if(arr.length == 1) {
+			        arrToUse = arr[0];
+			    } else {
+			    	arrToUse = arr;
+			    }
+			    return arrToUse.reduce(function (x,y) {
+				return [x[0] + y[0]/arrToUse.length, x[1] + y[1]/arrToUse.length] 
+			    }, [0,0]) 
+			}
+
+			var layerPopup;
+			var registerLayerMouseOver = function() {
+				geojsonLayer.on('mouseover', function(e) {
+					var coordinates = e.layer.feature.geometry.coordinates;
+					var centroid = getCentroid(coordinates[0])
+					var swapped_coordinates = [centroid[1], centroid[0]];
+					if (map) {
+						var props = e.layer.feature.properties
+						layerPopup = L.popup()
+							.setLatLng(swapped_coordinates)
+							.setContent(props.tags.name + ': ' + getValueLabel(getValue(props.tags)))
+							.openOn(map);
+					}
+					highlightFeature(e);
+				});
+			};
+			registerLayerMouseOver();
+			var registerLayerMouseOut = function() {
+				geojsonLayer.on('mouseout', function (e) {
+					if (layerPopup && map) {
+						map.closePopup(layerPopup);
+						layerPopup = null;
+						resetHighlight(e);
+					}
+				});
+			};
+			registerLayerMouseOut();
+			
+			var legend = L.control({position: 'bottomright'});
+
+			var registerLegend = function() {
+				legend.onAdd = function (map) {
+			
+					var div = L.DomUtil.create('div', 'info legend');
+					var grades = getAttributeGrades();
+					var labels = [];
+					var from, to;
+			
+					for (var i = 0; i < grades.length; i++) {
+						from = grades[i];
+						to = grades[i+1];
+			
+						if(lastSelection != "hardnessRange") {
+							labels.push(
+								'<i style="background:' + getAttributeColor(from + 1) + '"></i> ' +
+								from + (to ? '&ndash;' + to : '+'));
+						} else {
+							labels.push(
+								'<i style="background:' + getAttributeColor(from + 1) + '"></i> ' +
+								from);
+						}
+					}
+			
+					div.innerHTML = getLegendLabel() + '<br /<br />' + labels.join('<br>');
+					return div;
+				};
+			
+				legend.addTo(map);
+			};
+			registerLegend();
+		</script>
+	</body>
+</html>
