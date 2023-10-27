@@ -3,7 +3,7 @@ Dies ist ein Fork des OpenData-Projektes ["Trinkwasser"](http://opendatalab.de/p
 
 Dieser Fork entstand in einem Workshop zum [OpenDataDay 2017](http://opendataday.org/).
 
-Das Projekt ist in der aktuellen Version unter https://trinkwasser.leipzig.codefor.de/ abrufbar.
+Das Projekt ist in der aktuellen Version unter https://trinkwasser.codeforleipzig.de/ abrufbar.
 
 # Lizenz und Datenquelle
 Der Programmcode steht wie das Orginalprojekt unter der MIT-Lizenz. Die Tinkwasserdaten wurden uns hingegen von der OEWA Wasser und Abwasser GmbH (oewa.de) zum Zweck der Visualiserung zur Verfügung gestellt. Diese Daten stehen *nicht* unter der MIT-Lizenz, da sie (noch) Eigentum der OEWA sind. 
